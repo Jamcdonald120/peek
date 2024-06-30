@@ -1,1 +1,1 @@
-- Purged excessive features
+- Updated purged version
